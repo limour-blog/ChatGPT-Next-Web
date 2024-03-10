@@ -146,7 +146,7 @@ export const DEFAULT_MODELS = [
     },
   },
   {
-    name: "gemini-pro",
+    name: "my-gemini-pro",
     available: true,
     provider: {
       id: "google",
@@ -155,7 +155,7 @@ export const DEFAULT_MODELS = [
     },
   },
   {
-    name: "gemini-pro-vision",
+    name: "my-gemini-pro-vision",
     available: true,
     provider: {
       id: "google",
